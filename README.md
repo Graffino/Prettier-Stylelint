@@ -2,7 +2,7 @@
 
 ---
 
-> Format your styles with ease!
+# Format your styles with ease!
 
 code > prettier > stylelint > formatted code
 
