@@ -1,12 +1,4 @@
-# prettier-stylelint [![NPM Version](https://img.shields.io/npm/v/prettier-stylelint.svg)](https://www.npmjs.com/package/prettier-stylelint) [![NPM Downloads](https://img.shields.io/npm/dt/prettier-stylelint.svg)](https://www.npmjs.com/package/prettier-stylelint) [![NPM License](https://img.shields.io/npm/l/prettier-stylelint.svg)](https://www.npmjs.com/package/prettier-stylelint) [![Build Status](https://travis-ci.org/hugomrdias/prettier-stylelint.svg?branch=master)](https://travis-ci.org/hugomrdias/prettier-stylelint) [![codecov](https://codecov.io/gh/hugomrdias/prettier-stylelint/branch/master/graph/badge.svg)](https://codecov.io/gh/hugomrdias/prettier-stylelint)
-
----
-
-**Please note:** This is a fork from the original [prettier-stylelint](https://github.com/hugomrdias/prettier-stylelint/) respository. The changes basically only include an updated set of the dependencies, in order to avoid a lot of warnings happening during build and format time. See also the following threads:
-
--   [issue #3](https://github.com/hugomrdias/prettier-stylelint/issues/3#issuecomment-446919278)
--   [issue #25](https://github.com/hugomrdias/prettier-stylelint/issues/25)
--   [pull request #6](https://github.com/hugomrdias/prettier-stylelint/pull/6)
+**Please note:** This is a fork from the original [prettier-stylelint](https://github.com/hugomrdias/prettier-stylelint/) respository. The changes basically only include an updated set of the dependencies, in order make it work:
 
 ---
 
@@ -19,8 +11,7 @@ prettier-stylelint attempts to create a prettier config based on the stylelint c
 ## Install
 
 ```bash
-yarn add prettier-stylelint -D
-npm install prettier-stylelint --save-dev
+yarn add https://github.com/Graffino/prettier-stylelint -D
 ```
 
 ## Usage
