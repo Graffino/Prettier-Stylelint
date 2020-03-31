@@ -1,6 +1,6 @@
 {
-    "name": "prettier-stylelint-temp",
-    "version": "0.4.4",
+    "name": "prettier-stylelint",
+    "version": "0.4.5",
     "description": "code > prettier > stylelint > formatted code",
     "repository": "isellsoap/prettier-stylelint",
     "main": "index.js",
